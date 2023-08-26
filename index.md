@@ -11,12 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Why Ace Attorney is the Best Game Ever!
+## Reason 1: You become a real lawyer after playing.
+### No, really.
 
-- Bulleted
-- List
+- Miles Edgeworth
+- Detective Gumshoe
 
 1. Numbered
 2. List
