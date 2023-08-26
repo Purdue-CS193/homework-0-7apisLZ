@@ -1,6 +1,6 @@
 ## Lizzy Zhou's First CS193 Homework
 ### My favorite things about CS193!
-- The Powerpoint/Google Slides was engaging and aesthetical pleasing
+- The Powerpoint/Google Slides was engaging and aesthetically pleasing
 - I can make friends in this class (currently made 1)
 - It's super chill with no tests or exams!
 
